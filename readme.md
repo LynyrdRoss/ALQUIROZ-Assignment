@@ -77,3 +77,14 @@ Home page for books route.
 Add new book.
 
 ![Add new book](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/13.png "Add new book")
+
+### *"/books/edit/{book_id}"*
+With associated code.
+
+![Edit book](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/14.png "Edit book")
+
+![Edit book Code](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/15.png "Edit book Code")
+
+### *"/save-book"*
+
+![Save book Code](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/16.png "Save book Code")
