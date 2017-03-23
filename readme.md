@@ -42,3 +42,15 @@ Seeder filled table.
 ![Order Table using Seeder](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/5.png "Order Table using Seeder")
 
 ![Code for OrdersTableSeeder](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/6.png "Code for OrdersTableSeeder")
+
+
+## Student route:
+
+### *"/students"*
+Seeder filled table.
+
+![Student Table using Seeder](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/7.png "Student Table using Seeder")
+
+![Code for StudentsTableSeeder](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/8.png "Code for StudentsTableSeeder")
+
+![StudentController](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/9.png "StudentController")
