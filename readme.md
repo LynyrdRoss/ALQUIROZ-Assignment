@@ -10,7 +10,7 @@
 ### *"/pets"*
 Home page for pets route.
 
-![Home Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/1.png "Home Page")
+![Pets Home Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/1.png "Pets Home Page")
 
 **Showing by Type**
 *"/pets/{type}"*
@@ -64,3 +64,11 @@ Table with add member function
 ### *"/add-member"*
 
 ![Add Member Form](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/11.png "Add Member Form")
+
+
+## Books route:
+
+### *"/books"*
+Home page for books route.
+
+![Books Home Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/12.png "Books Home Page")
