@@ -9,3 +9,17 @@
 
 ### */pets*
 Home page for pets route.
+
+![Home Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/1.png "Home Page")
+
+
+**Showing by Type**
+
+### */pets/dog*
+
+![Dog Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/2.png "Dog Page")
+
+
+### */pets/bird*
+
+![Bird Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/3.png "Bird Page")
