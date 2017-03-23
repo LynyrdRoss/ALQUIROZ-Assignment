@@ -86,5 +86,14 @@ With associated code.
 ![Edit book Code](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/15.png "Edit book Code")
 
 ### *"/save-book"*
+Saving the book to the Database.
 
 ![Save book Code](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/16.png "Save book Code")
+
+### *"/books/delete/{book_id}"*
+Deleting the book from the Database.
+
+![Delete book Code](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/17.png "Delete book Code")
+
+
+> **FIN**
