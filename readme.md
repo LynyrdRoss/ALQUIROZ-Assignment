@@ -14,6 +14,7 @@ Home page for pets route.
 
 
 **Showing by Type**
+*"/pets/{type}"*
 
 ### *"/pets/dog"*
 
@@ -28,6 +29,16 @@ Home page for pets route.
 **Adding new pets**
 
 ### *"/add-pet"*
-Contains a drop down of collections of Dog, Cat and Bird
+Contains a drop down of collections of Dog, Cat and Bird.
 
 ![Add Pet Form](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/4.png "Add Pet Form")
+
+
+## Order route:
+
+### *"/orders"*
+Seeder filled table.
+
+![Order Table using Seeder](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/5.png "Order Table using Seeder")
+
+![Code for OrdersTableSeeder](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/6.png "Code for OrdersTableSeeder")
