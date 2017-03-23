@@ -12,14 +12,12 @@ Home page for pets route.
 
 ![Home Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/1.png "Home Page")
 
-
 **Showing by Type**
 *"/pets/{type}"*
 
 ### *"/pets/dog"*
 
 ![Dog Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/2.png "Dog Page")
-
 
 ### *"/pets/bird"*
 
@@ -54,3 +52,15 @@ Seeder filled table.
 ![Code for StudentsTableSeeder](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/8.png "Code for StudentsTableSeeder")
 
 ![StudentController](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/9.png "StudentController")
+
+
+## Member route:
+
+### *"/members"*
+Table with add member function
+
+![Member Table](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/10.png "Member Table")
+
+### *"/add-member"*
+
+![Add Member Form](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/11.png "Add Member Form")
