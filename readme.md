@@ -57,7 +57,7 @@ Seeder filled table.
 ## Member route:
 
 ### *"/members"*
-Table with add member function
+Table with add member function.
 
 ![Member Table](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/10.png "Member Table")
 
@@ -72,3 +72,8 @@ Table with add member function
 Home page for books route.
 
 ![Books Home Page](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/12.png "Books Home Page")
+
+### *"/add-book"*
+Add new book.
+
+![Add new book](https://github.com/LynyrdRoss/ALQUIROZ-Assignment/blob/master/13.png "Add new book")
